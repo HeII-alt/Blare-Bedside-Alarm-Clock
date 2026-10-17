@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BZ1,Buzzer_12x9.5RM7.6,1,Buzzer,
+"D1, D2, D3, D4",Diode_DO-35,4,~,
+"S1, S2, S3, S4",MX_PCB_1.00u,4,~,
+U1,Display_ST7789_2.25in_76x284_8P,1,~,
+U2,Seeed_XIAO_RP2040,1,MCU_Seeed_XIAO_RP2040,
