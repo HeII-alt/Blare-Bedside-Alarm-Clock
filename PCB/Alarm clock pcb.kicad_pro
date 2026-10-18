@@ -583,7 +583,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Alarm clock pcb.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

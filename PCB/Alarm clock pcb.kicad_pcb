@@ -414,6 +414,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "D:/Program/KiCad/Scotto Keevs/scottokeebs-main/Extras/ScottoKicad/3dmodels/ScottoKeebs_MX.3dshapes/MX_PCB.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "ScottoKeebs_MX:MX_PCB_1.00u"
 		(layer "F.Cu")
@@ -732,6 +743,17 @@
 		)
 		(embedded_fonts no)
 		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_MX.3dshapes/MX_PCB.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "D:/Program/KiCad/Scotto Keevs/scottokeebs-main/Extras/ScottoKicad/3dmodels/ScottoKeebs_MX.3dshapes/MX_PCB.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1756,6 +1778,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "D:/Program/KiCad/Scotto Keevs/scottokeebs-main/Extras/ScottoKicad/3dmodels/ScottoKeebs_MX.3dshapes/MX_PCB.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "ScottoKeebs_MX:MX_PCB_1.00u"
 		(layer "F.Cu")
@@ -2074,6 +2107,17 @@
 		)
 		(embedded_fonts no)
 		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_MX.3dshapes/MX_PCB.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "D:/Program/KiCad/Scotto Keevs/scottokeebs-main/Extras/ScottoKicad/3dmodels/ScottoKeebs_MX.3dshapes/MX_PCB.step"
 			(offset
 				(xyz 0 0 0)
 			)
