@@ -20,7 +20,7 @@ A custom-designed, compact desktop alarm clock powered by the Seeed Studio XIAO 
 ![Bottom Part](screenshots/Bottom%20Part.png)
 
 ### 5. Assembled View
-![Assembled View](screenshots/Asembeled.png)
+![Assembled View](screenshots/Assembled.png)
 
 ---
 
