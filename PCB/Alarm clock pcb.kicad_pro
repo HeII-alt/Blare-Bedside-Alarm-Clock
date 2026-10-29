@@ -64,7 +64,7 @@
           "min_island_area": 1.0,
           "min_thickness": 0.25,
           "pad_connection": 1,
-          "remove_islands": 0,
+          "remove_islands": 1,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
         }
@@ -583,7 +583,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "Alarm clock pcb.step",
+      "step": "../../Alarm clock pcb.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
